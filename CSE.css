@@ -1,0 +1,34 @@
+p1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-style: italic;
+    color:black;
+    font-weight:bolder;
+}
+h1{
+    color: crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header{
+    background-color: whitesmoke;
+    text-align: center;
+    word-spacing: 10px;
+}
+table{
+    color:black;
+    font-weight: 900;
+    color: blue;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url('download.jfif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+form{
+    font-weight: bolder;
+    justify-content: center;
+}
